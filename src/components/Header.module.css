@@ -1,0 +1,19 @@
+.selectSpanActive {
+    background-color: #D1DDFF;
+    color: #1D4ED8;
+    padding: 2px 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 16px;
+}
+
+.selectSpan {
+    /* color: #444444;
+    background-color: #F8F8F8; */
+    padding: 2px 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 16px;
+}
